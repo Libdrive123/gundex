@@ -26,10 +26,10 @@
         by
         <a
           xmlns:cc="http://creativecommons.org/ns#"
-          href="https://github.com/tks18"
+          href="https://www.netflix.com"
           property="cc:attributionName"
           rel="cc:attributionURL"
-          >Sudharshan TK
+          >NETFLIX XD
         </a>
         is licensed under a
         <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
@@ -39,7 +39,7 @@
         Based on a work at
         <a
           xmlns:dct="http://purl.org/dc/terms/"
-          href="https://github.com/tks18/gindex-v4"
+          href="https://www.netflix.com"
           rel="dct:source"
           >Github
         </a>
